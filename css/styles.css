@@ -71,6 +71,12 @@ body {
   font-style: normal;
 }
 
+.tags{
+  border: 3px solid;
+  display: inline-block;
+  padding: 10px;
+}
+
 #loadQuote {
   position: fixed;
   width: 12em;
